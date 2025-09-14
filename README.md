@@ -26,8 +26,8 @@ A comprehensive misinformation detection system that uses AI-powered debate and 
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd misinformation-checker
+git clone [<your-repo-url>](https://github.com/AnshdeepSachdeva/ai-misinformation-checker.git)
+cd ai-misinformation-checker
 ```
 
 2. **Install dependencies**
